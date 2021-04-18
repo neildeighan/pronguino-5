@@ -1,0 +1,25 @@
+{
+  "debug": {
+    "playerHitsBall": false,
+    "paddleHitsBoundary": false,
+    "ballReposition": true,
+    "ballHitsBoundary": false,
+    "enabled": false
+  },
+  "players": [
+    {
+      "name": "Bill",
+      "id": 0,
+      "up": "q",
+      "down": "a"
+    },
+    {
+      "name": "Ben",
+      "id": 1,
+      "up": "p",
+      "down": "l"
+    }
+  ],
+  "ballSpeed": 5,
+  "paddleSpeed": 6
+}
